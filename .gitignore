@@ -1,2 +1,6 @@
 venv
 */__pycache__
+Banana*
+.vscode
+__pycache__
+unity-environment.log
